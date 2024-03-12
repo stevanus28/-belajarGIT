@@ -1,4 +1,4 @@
-# -belajarGIT
+# belajarGIT
 Daftar tugas / branch
 1. Tugas-git
 2. Tugas-html
